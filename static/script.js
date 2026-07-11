@@ -1,0 +1,1 @@
+console.log("Cosmetic Insights Dashboard Loaded Successfully");
